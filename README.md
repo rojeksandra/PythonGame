@@ -22,4 +22,6 @@ Instrukcja plansza pustynia
 Wybór planszy 
 <img src="images_readme/select_game_board.png" alt="Zdjęcie 5">
 
+Gracz ma również możliwość wyboru koloru swojego awatara
+<img src="images_readme/select_color.png" alt="Zdjęcie 6">
 
