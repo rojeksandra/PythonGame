@@ -41,7 +41,7 @@ Wraz z każdym kolejnym poziomem generowane są nowe ustawienia kryjówek dla gr
 
 <img src="images_readme/victory.png" alt="Zdjęcie 10">
 
-Wygląd innych planszy 
+Wygląd innych plansz
 
 Ocean 
 
