@@ -29,12 +29,15 @@ Gracz ma również możliwość wyboru koloru swojego awatara
 Pierwsza plansza, "Forest", która jest również domyślną planszą, generuje kryjówki, w których gracz może ukryć się przed poruszającymi się zagrożeniami. Celem gracza jest dotarcie do mety, reprezentowanej przez żółty obiekt. Gracz może poruszać się w dowolnym kierunku za pomocą strzałek na klawiaturze.
 <img src="images_readme/level1.png" alt="Zdjęcie 7">
 Ukrycie gracza 
+
 <img src="images_readme/hide_player.png" alt="Zdjęcie 8">
 
 W przypadku zderzenia z zagrożeniem gra automatycznie się kończy, a jednocześnie generowany jest dźwięk zderzenia, informujący gracza o niepowodzeniu.
+
 <img src="images_readme/collision.png" alt="Zdjęcie 9">
 
 Wraz z każdym kolejnym poziomem generowane są nowe ustawienia kryjówek dla gracza, a ich liczba stopniowo maleje. Po osiągnięciu piątego poziomu, liczba kryjówek spada do zera, co oznacza, że zdobycie tego poziomu gwarantuje zwycięstwo. Dodatkowo, wraz z postępem w grze, liczba oraz szybkość zagrożeń zwiększa się, stając się coraz większym wyzwaniem dla gracza.
+
 <img src="images_readme/victory.png" alt="Zdjęcie 10">
 
 Wygląd innych planszy 
