@@ -19,4 +19,7 @@ Instrukcja plansza ocean
 <img src="images_readme/instrukcja2.png" alt="Zdjęcie 3">
 Instrukcja plansza pustynia
 <img src="images_readme/instrukcja33.png" alt="Zdjęcie 4">
+Wybór planszy 
+<img src="images_readme/select_game_board.png" alt="Zdjęcie 5">
+
 
