@@ -12,4 +12,4 @@ Projekt zakłada stworzenie gry w języku Python opartej na modelu klasowym oraz
 ## Opis
 Gra składa się z trzech różnych plansz, z których każda została opatrzona wcześniejszą instrukcją. Gracz może wybrać planszę poprzez wpisanie odpowiedniego słowa kluczowego, takiego jak "forest", "ocean" lub "desert", w wyznaczone pole.
 
-![instrukacja](ścieżka/do/zdjęcia.jpg)
+![instrukacja](images_readme/instrukcja.png)
