@@ -14,4 +14,9 @@ Gra składa się z trzech różnych plansz, z których każda została opatrzona
 
 <img src="images_readme/instrukacja.png" alt="Zdjęcie 1">
 Instrukcja plansza las
-<img src="images_readme/instrukcja1.png" alt="Zdjęcie 1">
+<img src="images_readme/instrukcja1.png" alt="Zdjęcie 2">
+Instrukcja plansza ocean
+<img src="images_readme/instrukcja2.png" alt="Zdjęcie 3">
+Instrukcja plansza pustynia
+<img src="images_readme/instrukcja3.png" alt="Zdjęcie 4">
+
