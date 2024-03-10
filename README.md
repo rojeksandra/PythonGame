@@ -30,3 +30,6 @@ Pierwsza plansza, "Forest", która jest również domyślną planszą, generuje 
 Ukrycie gracza 
 <img src="images_readme/hide_player.png" alt="Zdjęcie 8">
 
+W przypadku zderzenia z zagrożeniem gra automatycznie się kończy, a jednocześnie generowany jest dźwięk zderzenia, informujący gracza o niepowodzeniu.
+<img src="images_readme/collision.png" alt="Zdjęcie 9">
+
