@@ -42,8 +42,12 @@ Wraz z każdym kolejnym poziomem generowane są nowe ustawienia kryjówek dla gr
 <img src="images_readme/victory.png" alt="Zdjęcie 10">
 
 Wygląd innych planszy 
+
 Ocean 
+
 <img src="images_readme/ocean.png" alt="Zdjęcie 11">
+
 Pustynia 
+
 <img src="images_readme/desert.png" alt="Zdjęcie 12">
 
