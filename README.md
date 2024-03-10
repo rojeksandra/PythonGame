@@ -25,3 +25,6 @@ Wybór planszy
 Gracz ma również możliwość wyboru koloru swojego awatara
 <img src="images_readme/select_color.png" alt="Zdjęcie 6">
 
+Pierwsza plansza, "Forest", która jest również domyślną planszą, generuje kryjówki, w których gracz może ukryć się przed poruszającymi się zagrożeniami. Celem gracza jest dotarcie do mety, reprezentowanej przez żółty obiekt. Gracz może poruszać się w dowolnym kierunku za pomocą strzałek na klawiaturze.
+<img src="images_readme/level1.png" alt="Zdjęcie 7">
+
