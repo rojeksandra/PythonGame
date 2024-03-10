@@ -10,7 +10,7 @@ Projekt zakłada stworzenie gry w języku Python opartej na modelu klasowym oraz
 - Python
 
 ## Opis
-Gra składa się z trzech różnych plansz, z których każda została opatrzona wcześniejszą instrukcją. Gracz może wybrać planszę poprzez wpisanie odpowiedniego słowa kluczowego, takiego jak "forest", "ocean" lub "desert", w wyznaczone pole.
+Gra składa się z trzech różnych plansz, z których każda została opatrzona wcześniejszą instrukcją. Gracz może wybrać planszę poprzez wpisanie odpowiedniego słowa kluczowego, takiego jak "forest", "ocean" lub "desert", w wyznaczone pole. Dodatkowo, każda plansza jest opatrzona odpowiednim dźwiękiem, który pasuje do jej tematyki.
 
 <img src="images_readme/instrukacja.png" alt="Zdjęcie 1">
 Instrukcja plansza las
@@ -32,4 +32,13 @@ Ukrycie gracza
 
 W przypadku zderzenia z zagrożeniem gra automatycznie się kończy, a jednocześnie generowany jest dźwięk zderzenia, informujący gracza o niepowodzeniu.
 <img src="images_readme/collision.png" alt="Zdjęcie 9">
+
+Wraz z każdym kolejnym poziomem generowane są nowe ustawienia kryjówek dla gracza, a ich liczba stopniowo maleje. Po osiągnięciu piątego poziomu, liczba kryjówek spada do zera, co oznacza, że zdobycie tego poziomu gwarantuje zwycięstwo. Dodatkowo, wraz z postępem w grze, liczba oraz szybkość zagrożeń zwiększa się, stając się coraz większym wyzwaniem dla gracza.
+<img src="images_readme/victory.png" alt="Zdjęcie 10">
+
+Wygląd innych planszy 
+Ocean 
+<img src="images_readme/ocean.png" alt="Zdjęcie 11">
+Pustynia 
+<img src="images_readme/ocean.png" alt="Zdjęcie 12">
 
