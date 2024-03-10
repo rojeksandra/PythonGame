@@ -27,4 +27,6 @@ Gracz ma również możliwość wyboru koloru swojego awatara
 
 Pierwsza plansza, "Forest", która jest również domyślną planszą, generuje kryjówki, w których gracz może ukryć się przed poruszającymi się zagrożeniami. Celem gracza jest dotarcie do mety, reprezentowanej przez żółty obiekt. Gracz może poruszać się w dowolnym kierunku za pomocą strzałek na klawiaturze.
 <img src="images_readme/level1.png" alt="Zdjęcie 7">
+Ukrycie gracza 
+<img src="images_readme/hide_player.png" alt="Zdjęcie 8">
 
