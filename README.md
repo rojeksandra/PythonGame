@@ -18,5 +18,5 @@ Instrukcja plansza las
 Instrukcja plansza ocean
 <img src="images_readme/instrukcja2.png" alt="Zdjęcie 3">
 Instrukcja plansza pustynia
-<img src="images_readme/instrukcja3.png" alt="Zdjęcie 4">
+<img src="images_readme/instrukcja33.png" alt="Zdjęcie 4">
 
